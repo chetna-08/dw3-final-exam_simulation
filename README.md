@@ -1,4 +1,3 @@
-# dw3-final-exam_simulation
 Part I – PHP Basics & Development Environment
 Which PHP function is used to display text on the screen?
 a)** echo
